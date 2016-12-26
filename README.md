@@ -1,2 +1,4 @@
 # DataScience-ReproducibleResearch
-Coursera Data Science specialisation - Reproducible Research
+
+Coursera specialisation: Data Science
+Course: Reproducible Research
